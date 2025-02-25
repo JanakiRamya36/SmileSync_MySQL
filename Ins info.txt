@@ -1,0 +1,17 @@
+InsID,Company,Type,Plan,PID
+I001,Aetna CVS,Dental Discount,Family,P001
+I002,United Health,Copay,Individual,P002
+I003,Aetna CVS,Direct reimbursement,Family,P004
+I004,Aetna CVS,Copay,Family,P003
+I005,Blue cross,Dental Discount,Individual,P005
+I006,United Health,Copay,Family,P006
+I007,Blue cross,Direct reimbursement,Individual,P009
+I008,Aetna CVS,Dental Discount,Family,P007
+I009,United Health,Direct reimbursement,Individual,P008
+I010,Blue cross,Copay,Individual,P010
+I011,Aetna CVS,Copay,Family,P013
+I012,Blue cross,Direct reimbursement,Family,P011
+I013,Aetna CVS,Dental Discount,Individual,P012
+I014,United Health,Direct reimbursement,Individual,P014
+I015,Aetna CVS,Copay,Family,P015
+

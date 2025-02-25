@@ -1,0 +1,25 @@
+TreatID,Prescription,DID,TCID
+T001,Ibuprofen&Amoxicillin,D001,TC001
+T002,Chlorhexidine mouthwash,D002,TC004
+T003,Fluoride toothpaste,D003,TC003
+T004,,D004,TC007
+T005,Stolin Gumpaint,D005,TC004
+T006,Vitamin A&E*Famciclovir,D006,TC005
+T007,,D007,TC007
+T008,,D009,TC002
+T009,Ibuprofen&Amoxicillin,D010,TC006
+T010,Stolin Gumpaint,D011,TC004
+T011,Ibuprofen&Amoxicillin,D012,TC006
+T012,Chlorhexidine mouthwash,D013,TC004
+T013,Sensodyne Toothpaste,D014,TC008
+T014,Sensodyne Toothpaste,D015,TC008
+T015,Ibuprofen&Amoxicillin,D016,TC009
+T016,Soft toothbrush,D017,TC003
+T017,,D018,TC002
+T018,Ibuprofen&Amoxicillin,D019,TC001
+T019,Chlorhexidine mouthwash,D020,TC004
+T020,Vitamin B12&C,D021
+T021,,D023,TC010
+T022,Ibuprofen&Amoxicillin,D024,TC009
+T023,soft toothbrush,D025,TC003
+T024,Ibuprofen&Amoxicillin,D026,TC001

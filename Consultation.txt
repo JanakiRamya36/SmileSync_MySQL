@@ -1,0 +1,16 @@
+CID,CC,MedicalHistory,InsID
+C001,Pain,Diabetes,I001
+C002,Blackish Discoloration,,I002
+C003,Bleeding Gums,Hypertension,I003
+C004,Whitish Patches,Diabetes,I004
+C005,Irregular teeth,,I005
+C006,Swelling,Thyroid,I006
+C007,Pain,Diabetes,I007
+C008,Pain,Hypertenion,I008
+C009,Sensitivity,,I009
+C010,Receeding Gums,Diabetes&Hypertension,I010
+C011,Brownish Discoloration&Pitting,,I011
+C012,Release of Pus,Obesity,I014
+C013,Erosion,Thyroid,I013
+C014,Missing teeth,Diabetes,I012
+C015,Receding Gums,Diabetes&Obesity,I015

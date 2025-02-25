@@ -1,0 +1,8 @@
+DeptID,Name,HOD,Specialization
+1,Oral Medicine,AA,Diagnosis
+2,Oral Surgery,BB,Treatment
+3,Prosthodontics,CC,Restoration
+4,Conservative Dentistry,DD,Preservation
+5,Endodontics,EE,Root canal
+6,Orthodontics,FF,Alignment
+7,Periodontics,GG,Gums

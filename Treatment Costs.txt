@@ -1,0 +1,11 @@
+TCID,Treatment,CDTcode,Cost
+TC001,Root Canal,D3330,1700
+TC002,Topical Fluoride,D1208,75
+TC003,Restorartion,D2330,270
+TC004,Scaling,D4346,160
+TC005,Excision,D7410,180
+TC006,Extraction,D7140,300
+TC007,Fixed appliance therapy,D8220,7000
+TC008,Application of desensitizing medicament,D9910,120
+TC009,Flap surgery,D4241,3000
+TC010,Denture,D6549,2500
