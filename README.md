@@ -8,6 +8,7 @@ This project was executed using the MySQL command line interface, with structure
 ## Key Findings
 - Designed and structured a relational database schema to efficiently manage patient demographics, consultations, diagnosis, treatments, billing, and insurance details.
 - Developed a comprehensive E-R diagram, effectively structuring patient demographics, consultations, diagnosis, treatments, insurance, and billing with optimized primary and foreign key relationships.
+- Integrated CDT (Current Dental Terminology) codes to standardize treatment classification and billing, improving insurance claims processing and financial accuracy.
 - Performed exploratory data analysis to uncover insights into patient visit patterns, treatment trends, and financial distributions.
 - Analyzed hospital revenue streams, insurance claims, and patient demographics, identifying key trends for resource optimization.
 
