@@ -1,0 +1,27 @@
+﻿DID,INVESTIGATION,Diagnosis,CID,DocID,Notes
+D001,Radiograph,Deep Caries,C001,Doc012,"Deep caries #3, radiograph confirms lesion.  "
+D002,,Gingivitis,C001,Doc020,"Mild gingival inflammation observed, no radiographic changes.  "
+D003,Radiograph,Enamel Caries,C002,Doc006,Early enamel caries detected #21 
+D004,,Diastema,C002,Doc013,Slight diastema noted between upper central incisors.  
+D005,,Gingivitis,C003,Doc022,Gingivitis with mild bleeding on probing.  
+D006,Biopsy,Leukoplakia,C004,Doc001,"Biopsy performed for leukoplakia, awaiting histopathology report.  "
+D007,Radiograph,Crowding,C005,Doc014,"Crowding in lower anterior teeth, advised ortho treatment."
+D008,,Gingivitis,C005,Doc004,"Mild gingival inflammation #2,3,4."
+D009,,Fluorosis,C005,Doc017,Fluorosis stains on anterior teeth.
+D010,Radiograph,Buccal space infection + Perapical Cyst,C006,Doc005,"Infection noted in buccal space, periapical cyst # 14 "
+D011,Radiograph&HbA1c,Periodontitis,C006,Doc022,"Periodontitis with bone loss # 22,23,24  "
+D012,Radiograph,Deep Caries,C007,Doc002,MOB #2. May need RCT.
+D013,,Gingivitis,C007,Doc004,"Localized gingivitis, mild inflammation around gum line # 8,9"
+D014,Radiograph,DentinalHypersensitivity,C008,Doc017,Dentin layer exposed # 13  
+D015,,DentinalHypersensitivity,C009,Doc006,"Sensitivity reported on lower molars, patient advises cold stimulus triggers pain.  "
+D016,Radiograph&HbA1c,Periodontitis,C010,Doc020,"Chronic periodontitis with radiographic bone loss, elevated HbA1c noted.  "
+D017,,Cervical Abrasion,C010,Doc021,"Cervical abrasion noted on # 5,6,14, likely due to aggressive brushing.  "
+D018,,Fluorosis,C011,Doc017,"Fluorosis present on anterior teeth, no intervention required.  "
+D019,Radiograph,Periapical Abscess,C012,Doc018,"D019: Periapical abscess #7, pain reported 8/10.  "
+D020,,Gingivitis,C012,Doc020,"Gingivitis with mild redness and swelling, routine cleaning advised.  "
+D021,,Aphthous ulcer,C013,Doc007,"Aphthous ulcer on inner lip, patient reports discomfort while eating.  "
+D022,,Buccal Pit,C013,Doc017,Caries involving buccal surface # 30.
+D023,,Partially Edentulous,C014,Doc009,"Partially edentulous # 18,19, advised Implants or partial denture."
+D024,Radiograph&HbA1c,Periodontitis,C015,Doc022,"Severe periodontitis, radiograph & HbA1c suggest need for periodontal therapy.  "
+D025,,Cervical Abrasion,C015,Doc017,"Cervical abrasion #3,4,24, patient education on brushing technique provided.  "
+D026,Radiograph,Deep Caries,C015,Doc019,Deep caries # 19. Advised RCT. 

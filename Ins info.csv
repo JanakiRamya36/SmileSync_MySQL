@@ -1,0 +1,16 @@
+﻿InsID,Company,Ins_Category,Payment_Model,Coverage_Percentage,Discount_Percentage,Plan,PID
+I001,Aetna CVS,Discount Plan,Dental Discount,0,20,Family,P001
+I002,United Health Care,Private,Copay,50,0,Individual,P002
+I003,Aetna CVS,Self-Pay,Direct reimbursement,0,0,Family,P004
+I004,Aetna CVS,Private,Copay,80,0,Family,P003
+I005,BCBS,Private,Copay,50,0,Individual,P005
+I006,Cigna,Private,Copay,70,0,Family,P006
+I007,BCBS,Private,Copay,80,0,Individual,P009
+I008,Cigna,Private,Copay,90,0,Family,P007
+I009,United Health Care,Self-Pay,Direct reimbursement,0,0,Individual,P008
+I010,BCBS,Private,Copay,70,0,Individual,P010
+I011,Cigna,Private,Copay,50,0,Family,P013
+I012,BCBS,Self-Pay,Direct reimbursement,0,0,Family,P011
+I013,Aetna CVS,Discount Plan,Dental Discount,0,25,Individual,P012
+I014,United Health Care,Private,Copay,75,0,Individual,P014
+I015,Aetna CVS,Private,Copay,50,0,Family,P015

@@ -1,0 +1,16 @@
+﻿CID,visit_date,PID,InsID,Consultation_fees,Visit_Type,CC,MedicalHistory
+C001,2024-02-26,P001,I001,75,Emergency,Pain,Diabetes
+C002,2024-03-09,P002,I002,75,Routine,Blackish Discoloration,
+C003,2024-03-15,P004,I003,75,Routine,Bleeding Gums,Hypertension
+C004,2024-03-25,P003,I004,75,Routine,Whitish Patches,Diabetes
+C005,2024-03-25,P005,I005,75,Follow-up,Irregular teeth,
+C006,2024-03-31,P006,I006,75,Emergency,Swelling,Thyroid
+C007,2024-04-06,P009,I007,75,Emergency,Pain,Diabetes
+C008,2024-04-13,P007,I008,75,Emergency,Pain,Hypertenion
+C009,2024-04-15,P008,I009,75,Follow-up,Sensitivity,
+C010,2024-04-15,P010,I010,75,Routine,Receeding Gums,Diabetes&Hypertension
+C011,2024-04-21,P013,I011,75,Routine,Brownish Discoloration,
+C012,2024-04-21,P014,I014,75,Emergency,Release of Pus,Obesity
+C013,2024-04-21,P012,I013,75,Routine,Erosion,Thyroid
+C014,2024-04-24,P011,I012,75,Routine,Missing teeth,Diabetes
+C015,2024-04-25,P015,I015,75,Routine,Receding Gums,Diabetes&Obesity

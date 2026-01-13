@@ -1,0 +1,25 @@
+﻿TreatID,treatment_date,Prescription,DID,TCID
+T001,2024-02-26,Chlorhexidine mouthwash,D002,TC004
+T002,2024-03-14,Ibuprofen&Amoxicillin,D001,TC001
+T003,2024-03-20,Stolin Gumpaint,D005,TC004
+T004,2024-03-26,Fluoride toothpaste,D003,TC003
+T005,2024-03-31,Vitamin A&E*Famciclovir,D006,TC005
+T006,2024-03-31,,D008,TC004
+T007,2024-04-06,,D004,TC007
+T008,2024-04-07,Stolin Gumpaint,D011,TC004
+T009,2024-04-13,Sensodyne Toothpaste,D014,TC008
+T010,2024-04-15,Chlorhexidine mouthwash,D013,TC004
+T011,2024-04-15,Sensodyne Toothpaste,D015,TC008
+T012,2024-04-17,,D007,TC007
+T013,2024-04-21,Vitamin B12&C,D021,0
+T014,2024-04-24,Ibuprofen&Amoxicillin,D012,TC006
+T015,2024-04-24,Soft toothbrush,D017,TC003
+T016,2024-04-24,,D023,TC010
+T017,2024-04-25,Ibuprofen&Amoxicillin,D010,TC006
+T018,2024-04-25,Chlorhexidine mouthwash,D020,TC004
+T019,2024-05-02,Ibuprofen&Amoxicillin,D016,TC009
+T020,2024-05-02,,D018,TC011
+T021,2024-05-05,soft toothbrush,D025,TC003
+T022,2024-05-12,Ibuprofen&Amoxicillin,D024,TC009
+T023,2024-05-15,Ibuprofen&Amoxicillin,D019,TC001
+T024,2024-05-25,Ibuprofen&Amoxicillin,D026,TC001
