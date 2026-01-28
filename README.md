@@ -1,4 +1,4 @@
-# Smile Sync: Dental_EDR and Automated_Billing_Workflow
+# SmileSync: Integrated Dental EHR & Billing Platform
 
 ## Project Overview
 Smile Sync is a relational database system designed to streamline dental hospital management by optimizing patient records, billing, consultations, treatments, and insurance processing. The project enhances data organization, retrieval, and analysis, ensuring improved operational efficiency and data-driven decision-making.
